@@ -1,5 +1,5 @@
-# :musical_note:Musiboard :musical_keyboard:
+# :musical_note:Musiboard 
 
-## A musical small board built with simple html, csss and javascript for fun.
+## A musical small :musical_keyboard: board built with simple html, csss and javascript for fun.
 
 
